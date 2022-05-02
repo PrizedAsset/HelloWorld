@@ -1,3 +1,1 @@
-# HelloWorld
-My First Repository
-Commiting Changes the second time
+Just having Fun
